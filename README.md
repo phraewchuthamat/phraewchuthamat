@@ -1,15 +1,18 @@
-# Phraew (Chuthamat)
+# Chuthamat (Phraew)
 ### Frontend Developer | Electrical Engineering Background
 
-I am an Electrical Engineering graduate currently transitioning into Software Development. I build web applications using React.js and TypeScript, with a focus on creating clean and responsive user interfaces. I also have experience working in team environments using Agile workflows and standard CI/CD tools.
+### Profile Summary
+- **Background:** Electrical Engineering graduate transitioning into Software Development.
+- **Focus:** Building clean, responsive web applications using React.js and TypeScript.
+- **Workflow:** Experienced in Agile team collaboration and familiar with standard CI/CD processes.
 
 ---
 
-### Current Focus
-- **Project Based Learning:** Kanban Task Board (Full-Stack: React, TypeScript, Tailwind, Node.js)
+### Current Status & Goals
+- **Project:** Kanban Task Board (Full-Stack: React, TypeScript, Tailwind, Node.js)
 - **Learning:** Next.js and System Design
-- **Career Objective:** Frontend Developer role (React/TypeScript) with an interest in IoT.
-- **Professional Interests:** Smart Building Systems and Real-time Data.
+- **Career Goal:** Frontend Developer (React/TypeScript)
+- **Tech Interests:** IoT, Smart Building Systems, and Real-time Data
 
 ---
 
@@ -44,10 +47,9 @@ I am an Electrical Engineering graduate currently transitioning into Software De
 ---
 
 ### Personal Interests
-Outside of coding, I enjoy a simple and balanced lifestyle:
-- **Coding Routine:** Listening to music with a good cup of coffee.
-- **Relaxation:** Reading books and playing the guitar.
-- **Wellness:** Taking walks to clear my mind and recharge.
+- **Focus:** Coding with coffee and ambient music
+- **Hobbies:** Reading books and playing the guitar
+- **Relaxation:** Taking walks to recharge
 
 ---
 
