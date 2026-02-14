@@ -6,7 +6,7 @@ I bridge the gap between *logic* and *UI design* using **React.js** & **TypeScri
 
 ---
 
--  **Working on:** **[Kanban Task Board](https://github.com/phraewchuthamat/task-board-react)** (MERN Stack)
+-  **Working on:** **[Kanban Task Board](https://github.com/phraewchuthamat/task-board-react)** (Full-Stack)
 -  **Learning:** **Next.js** & **System Design**
 -  **Goal:** Frontend Role (React/TS) with interest in **IoT**
 -  **Passion:** Smart Building Logic & Real-time Data
