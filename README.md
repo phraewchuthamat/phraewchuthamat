@@ -1,4 +1,4 @@
-# Chuthamat (Phraew)
+# Hi there, I'm Praew (Chuthamat) 👋
 ### Frontend Developer | Electrical Engineering Background
 
 ### Profile Summary
